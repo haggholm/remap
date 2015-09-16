@@ -1,0 +1,20 @@
+{
+  "name": "remap",
+  "version": "1.0.0",
+  "description": "Remap object keys",
+  "main": "remap.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "remap",
+    "object",
+    "keys"
+  ],
+  "author": "Petter Häggholm <petter@petterhaggholm.net>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:haggholm/remap.git"
+  }
+}
