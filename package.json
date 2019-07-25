@@ -18,6 +18,6 @@
     "url": "git@github.com:haggholm/remap.git"
   },
   "dependencies": {
-    "lodash": "^3.10.1"
+    "lodash": "^4.17.15"
   }
 }
